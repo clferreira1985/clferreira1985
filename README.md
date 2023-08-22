@@ -1,5 +1,5 @@
-<h1 align="center">Hi👋, Data Analyst /Data Science </h1>
-<h3 align="center">Data Analyst / Data Science in Development </h3>
+<h1 align="center"> Data Analyst /Data Science </h1>
+<h3 align="center">Hi👋, I' m a Data Analyst / Data Science in Development </h3>
 
 - 🔭 I’m currently training Data Science, if you want to know some projects that i did click on beside link  [Data projects](https://github.com/clferreira1985/Projetos_Python)
 
